@@ -8,9 +8,9 @@ import org.junit.runner.RunWith;
         glue = {"steps"},
         plugin = {"pretty", "html:target/cucumber.html", "json:target/cucumber.json"}
 // , dryRun = true
-        , monochrome = true
+        , monochrome = false
 // , tags = "@Tag1 or @Tag2"
-        , tags = "@Tag3"
+        , tags = "@Tag1"
 // , name = {"Link", "Logo"}
 )
 public class TestRunner {

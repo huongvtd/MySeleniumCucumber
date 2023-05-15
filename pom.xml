@@ -35,6 +35,13 @@
       <artifactId>selenium-java</artifactId>
       <version>4.9.0</version>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-devtools-v112 -->
+    <dependency>
+      <groupId>org.seleniumhq.selenium</groupId>
+      <artifactId>selenium-devtools-v112</artifactId>
+      <version>4.9.0</version>
+    </dependency>
+
   </dependencies>
 </project>
 
